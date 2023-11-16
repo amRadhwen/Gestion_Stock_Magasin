@@ -1,5 +1,4 @@
 # Guide de déploiement
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=AppPointage&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=AppPointage) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AppPointage&metric=bugs)](https://sonarcloud.io/dashboard?id=AppPointage) 
 
 Ce document est un guide de déploiement du logiciel issu du projet de qualité logiciel **gestion de stock**.
 
